@@ -1,7 +1,9 @@
+#Estudiante: Carlos Andrés Molina Jaramillo
+#Curso: Software A1
+
 
 import os
 class Ejercicios_Tarea2:
-
 
     os.system("cls")
     def tipo_dato(self):
@@ -131,7 +133,7 @@ class Ejercicios_Tarea2:
         print("'palabra'=='rama'")
         print("palabra"=="rama")
 
-    def trueOrfalse (self):
+    def trueOrfalse(self):
         print("¿Qué resutlado (True/False) dan las siguientes operaciones")
         print("not True: {} ".format(not True))
         print("-"*25)
