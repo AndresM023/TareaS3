@@ -1086,6 +1086,6 @@ class Ejercicios_Tarea2:
 
 
 
-andres = Ejercicios_Tarea2()
-andres.eje2()
+z = Ejercicios_Tarea2()
+z.Cadena()
 
